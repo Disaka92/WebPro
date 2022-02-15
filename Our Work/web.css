@@ -11,3 +11,19 @@ ul {
   top: 0;
   width: 100%;
 }
+li {
+  float: left;
+}
+
+li a {
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration:none;
+}
+
+li a:hover{
+  background-color:#84bbe0;
+  size: 50px;
+}
