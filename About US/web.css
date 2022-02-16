@@ -1,0 +1,14 @@
+.container {
+    
+    position:sticky;
+    width:100%;
+    max-width:100%;
+  }
+  
+  .image1 {
+      margin-top: 50PX;
+  
+    display:block;
+    width: 100%;
+    height: 800px;
+  }
