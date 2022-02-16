@@ -31,7 +31,9 @@
             padding-top:300px;
             padding-bottom:350px;
             text-align: center;
+
             
+<<<<<<< Updated upstream
           }
 
           .overlay {
@@ -49,3 +51,17 @@ ul {
   top: 0;
   width: 100%;
 }
+=======
+         }
+         li {
+          float: left;
+        }
+        
+        li a {
+          display:block;
+          color: white;
+          text-align: center;
+          padding: 18px 16px;
+          text-decoration:none;
+        }
+>>>>>>> Stashed changes
