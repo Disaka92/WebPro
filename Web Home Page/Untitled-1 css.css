@@ -33,3 +33,64 @@
   text-align: center;
   
 }
+.overlay {
+  opacity: 1;
+}
+body {margin: 0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#0063B2FF;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration:none;
+}
+
+li a:hover{
+  background-color:#84bbe0;
+  size: 50px;
+}
+.img1{
+
+  margin-bottom: 0px;
+
+}
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+
+}
+@media screen and (max-width:100%) {
+  .topnav a, .topnav input[type=text] {
+    float: right;
+    display: block;
+    text-align: left;
+    width: 50px;
+    margin: 0;
+    height: 50px;
+ 
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
+
