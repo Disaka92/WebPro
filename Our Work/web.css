@@ -26,4 +26,30 @@ li a {
 li a:hover{
   background-color:#84bbe0;
   size: 50px;
+}.img1{
+
+  margin-bottom: 0px;
+
 }
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+
+}
+@media screen and (max-width:100%) {
+  .topnav a, .topnav input[type=text] {
+    float: right;
+    display: block;
+    text-align: left;
+    width: 50px;
+    margin: 0;
+    height: 50px;
+ 
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
