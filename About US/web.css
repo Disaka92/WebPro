@@ -62,3 +62,21 @@ ul {
           padding: 18px 16px;
           text-decoration:none;
         }
+        li a:hover{
+          background-color:#84bbe0;
+          size: 50px;
+        }
+        .img1{
+        
+          margin-bottom: 0px;
+        
+        }
+        .topnav input[type=text] {
+          float: right;
+          padding: 6px;
+          border: none;
+          margin-top: 8px;
+          margin-right: 16px;
+          font-size: 17px;
+        
+        }
