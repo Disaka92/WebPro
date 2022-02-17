@@ -52,4 +52,72 @@ li a:hover{
   }
   .topnav input[type=text] {
     border: 1px solid #ccc;
-  }
+  }}
+  img{max-width: 100%;
+    max-height: auto;}
+  
+  
+  .web1 {
+      background-color:rgb(122, 157, 173);
+      float:left;
+      margin-left:0%;
+      width: 100%;
+      padding:0px;
+      max-width: 100%;
+      height: auto;
+      height: 200px;
+    }
+  
+  .web1 {
+      background-color:rgb(143, 193, 216);
+      float:left;
+      margin-left:0%;
+      width: 100%;
+      padding:0px;
+      max-width: 100%;
+      height: auto;
+      height: 200px;
+    }
+    .web2 {
+      background-color:rgb(143, 193, 216);
+      float:left;
+      margin-left:0%;
+      width: 50%;
+      padding:0px;
+      max-width: 100%;
+      height: auto;
+      height: 400px;
+    }
+    .web3 {
+      background-color:rgb(255, 255, 255);
+      float:left;
+      margin-left:0%;
+      width: 50%;
+      padding:0px;
+      max-width: 100%;
+      height: auto;
+      height: 400px;
+    }
+  
+    .web4 {
+      background-color:rgb(255, 255, 255);
+      float:left;
+      margin-left:0%;
+      width: 100%;
+      padding:0px;
+      max-width: 100%;
+      height: auto;
+      height: 450px;
+    }
+    .web5{
+      background-color:rgb(255, 255, 255);
+  
+       float: left;
+       margin-left:0%;
+       width: 504px;
+       padding:1px;
+       max-width: 100%;
+       height: auto;
+       height: 200px;
+       font-size: 20px;
+     }
