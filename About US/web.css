@@ -79,4 +79,28 @@ ul {
           margin-right: 16px;
           font-size: 17px;
         
+        } 
+        @media screen and (max-width:100%) {
+          .topnav a, .topnav input[type=text] {
+            float: right;
+            display: block;
+            text-align: left;
+            width: 50px;
+            margin: 0;
+            height: 50px;
+         
+          }
+          .topnav input[type=text] {
+            border: 1px solid #ccc;
+          }
+        }
+        .column1{
+          background-color:rgb(255, 255, 255);
+          float:right;
+          margin-left:0%;
+          width: 100%;
+          padding:1px;
+          max-width: 100%;
+          height: auto;
+          height: 200px;
         }
