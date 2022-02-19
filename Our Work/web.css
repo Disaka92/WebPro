@@ -120,4 +120,66 @@ li a:hover{
        height: auto;
        height: 200px;
        font-size: 20px;
+     }.web6{
+      background-color:rgb(255, 255, 255);
+  
+       float:left;
+       margin-left:0%;
+       width: 505.2px;
+       padding:1px;
+       max-width: 100%;
+       height: auto;
+       height: 200px;
+       font-size: 20px;
+     }
+     
+     .web7{
+      background-color:rgb(255, 255, 255);
+  
+       float: right;
+       margin-left:0%;
+       width: 504px;
+       padding:1px;
+       max-width: 100%;
+       height: auto;
+       height: 200px;
+       font-size: 20px;
+     }
+    
+     .web8{
+      background-color:rgb(255, 255, 255);
+  
+       float: left;
+       margin-left:0%;
+       width: 50%;
+   
+       max-width: 100%;
+       height: auto;
+       height: 500px;
+       font-size: 20px;
+     }
+  
+     .web9{
+      background-color:rgb(255, 255, 255);
+  
+       float: right;
+       margin-left:0%;
+       width: 50%;
+     
+       max-width: 100%;
+       height: auto;
+       height: 500px;
+       font-size: 20px;
+     }
+     .obj8{
+       background-color:#001a70;
+       float:left;
+       float:inline-start;
+       margin-left:0%;
+       width: 1515px;
+       padding:1px;
+       max-width: 100%;
+       height: auto;
+       height: 150px;
+     
      }
