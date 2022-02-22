@@ -192,4 +192,17 @@ ul {
           height: 190px;
         
         }
+        .column10{
+          background-color:#ffffff;
+          float:right;
+          margin-left:0%;
+          width: 100%;
+          padding:1px;
+          max-width: 100%;
+          height: auto;
+          height: 100px;
+        
+        
+        }
+        
         
