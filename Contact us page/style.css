@@ -37,14 +37,14 @@ textarea {
 }
 
 .contact-form {
-  background-color: #0721b6;
+  background-color: #09cf6c;
   position: relative;
   text-align: center;
 }
 
 .circle {
   border-radius: 50%;
-  background: linear-gradient(135deg, transparent 20%, #0721b6);
+  background: linear-gradient(135deg, transparent 20%, #0a9c47);
   position: absolute;
 }
 
